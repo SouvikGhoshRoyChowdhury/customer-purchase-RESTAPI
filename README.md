@@ -12,7 +12,7 @@ The API includes
 ### Usage
 Clone the repository using the git command
 ```
-git clone 
+git clone https://github.com/SouvikGhoshRoyChowdhury/customer-purchase-RESTAPI
 ```
 
 Enter into the project's root directory
